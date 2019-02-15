@@ -1,0 +1,1 @@
+docker run --net=host allows the containers to connect to the host via the localhost hostname
